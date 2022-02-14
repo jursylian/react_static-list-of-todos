@@ -1,0 +1,2 @@
+.userInfo__email,.userInfo__name{font-size:12px;margin:5px 0}.todoInfo__title{font-size:16px;margin:0}.todoInfo__completed{font-size:14px;margin:5px 0}.todo{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));grid-gap:20px;gap:20px;list-style:none;margin:0;padding:0}.todo__item{display:flex;flex-direction:column;background-color:beige;border:1px solid bisque;border-radius:8px;padding:10px;justify-content:space-between}.App{font-family:Arial,Helvetica,sans-serif}
+/*# sourceMappingURL=main.8aba5ada.chunk.css.map */
